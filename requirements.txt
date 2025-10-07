@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlflow
+
+# timeseries forecasting libraries
+statsmodels
+pystan
+prophet
+tsai
