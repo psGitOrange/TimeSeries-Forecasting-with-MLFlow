@@ -6,6 +6,8 @@
 
 There isn’t a one-size-fits-all solution, different models like SARIMAX, Prophet, or deep learning approaches may perform differently depending on the data and the application. Finding the right model often takes many experiments. In this process, it becomes crucial to keep track of inputs, evaluation metrics, and model versions, with so many moving parts it’s difficult to compare to find best model. This is where tools like MLflow helps by providing experiment tracking, model versioning, etc to ensure reproducibility and make deployment reliable.
 
+[**Medium Blog Post**](https://medium.com/@pavansingu007/time-series-forecasting-and-experiment-tracking-with-mlflow-9e12cc31f9c1) to understand about timeseries and experiment tracking done the project.
+
 ### Business Problem statement
 
 Understand the per page view report for different wikipedia pages for 550 days, and forecasting the number of views so that you can predict and optimize the ad placement for your clients.
